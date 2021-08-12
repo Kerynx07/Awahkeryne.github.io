@@ -4,6 +4,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+#header li span{
+	color: crimson;
+}
 html {
 	font-size: 10px;
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
